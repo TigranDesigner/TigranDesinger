@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TigranDesinger
+- 👋 Hi, I’m @TigranDesigner
 
 - I am a Architect, Researcher, Exhibition Designer. I Designs artificial enclosures made of physical objects, systems, and narratives.
 
